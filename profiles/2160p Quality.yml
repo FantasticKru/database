@@ -1,4 +1,4 @@
-name: 2160p Quality
+name: 2160p High Quality
 description: "2160p Quality utilizes the [**Encode Efficiency Index**](https://dictionarry.dev/wiki/EEi)\
   \ metric at a 55% target ratio to prioritize **transparent** x265 4k encodes. \n\
   \n- 4 quality tiers prioritize encodes from reputable groups, with fallback to high-quality\
