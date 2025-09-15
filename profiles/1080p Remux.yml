@@ -1,4 +1,4 @@
-name: 1080p Remux
+name: 1080p High Quality (Remux)
 description: "1080p Remux utilizes **audio tags** to prioritise high quality lossless\
   \ copies of HD Blu-rays.\n\n- Unlike the encode profiles, which target releases\
   \ based on a release group metric, 1080p Remux avoids this to stop *circular downloads*\
